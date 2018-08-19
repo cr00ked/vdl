@@ -1,6 +1,7 @@
 # Vinted Image Downloader
 
 This script downloads images from [Vinted](https://www.vinted.com/)-styled websites in a batch.
+Should work on all domains using the same theme.
 
 ## Features
 
